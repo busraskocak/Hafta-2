@@ -10,7 +10,6 @@ public class Main {
         return result;
     }
 
-
     public static void main(String[] args) {
         Scanner inp=new Scanner(System.in);
         System.out.println("Taban Değerini Giriniz : ");
