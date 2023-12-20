@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Sayı :" + (n-5));
         desen(n-5);
         if (n-5>0){
-            System.out.println("Sayı :" + (n+5));
+            System.out.println("Sayı :" + (n-5));
         }
 
     }
